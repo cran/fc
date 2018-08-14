@@ -1,0 +1,10 @@
+5c4043415415fd4bb0b8d17f52827860 *DESCRIPTION
+0ac9bc04c4dc1572a2a10a30555d43ea *NAMESPACE
+b73bfaeacd1d630ddfe87a16fdfb60b7 *R/fc.r
+53c78247b520c747a2fa152238ef923a *R/language-properties.r
+3f4f5658e3a5f8ef6c101f2b69374a0e *R/pipe.r
+8cf7814f907d425066cc6bfe07a0e8a5 *README.md
+32d921e2b85fca652e9be7e385c870ef *man/fc.Rd
+cfd4a5f64d2541eca4f66cbe7ab44815 *man/pipe.Rd
+489aaecba29da3238cfb8a047f717fee *tests/test-fc.r
+a05078e6f67e0fc71f426a87b2765ca0 *tests/test-pipe.r
